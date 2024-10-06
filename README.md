@@ -39,7 +39,6 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - Hardware setup: Required hardware, LED matrix wiring, e-paper wiring, circuit diagrams, and DIY tips.
 - Software code: Raspberry Pi OS setup, required software libraries, online service accounts, and Python code.
 <!-- Press coverage https://youtu.be/PuvCo-NGgwE -->
--->
 
 ### Project Summary:
 
