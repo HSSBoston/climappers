@@ -19,7 +19,7 @@ We participated in the [Boston division](http://spaceappsboston.org/) of Space A
  and won the **1st place** and **Kintone Award** there! We are excited to receive [a Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
 -->
 
-Our team worked on the [Community Mapping]https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/). 
+Our team worked on the [Community Mapping](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/). 
 
 <!--
 We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
