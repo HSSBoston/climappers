@@ -28,7 +28,7 @@ We built "smart" mirrors and picture frames, each of which downloads NASA's soni
 This web site provides hardware and software setup guide, circuit diagrams, and ready-to-run Python programs. You can immediately learn how to reproduce our devices and how to use our constellation sonifier. We hope you find this project interesting and useful and then learn something about sonification. 
 
 - [Official team web page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/the-climappers/) at SpaceAppsChallenge.org
-- [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing)
+- [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing) for global judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/1WeamII1KqAWI8Ihfe29W0ET_eX6rFyID953sO8JrFNA/edit?usp=sharing) at Boston local judging
 - 
 
