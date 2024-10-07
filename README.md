@@ -19,7 +19,7 @@ We participated in the [Boston division](http://spaceappsboston.org/) of Space A
 We are excited to receive [a Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
 -->
 
-Our team worked on the [Community Mapping](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/). We worked on the impacts of climate change on heat-related illness, bird conservation, drought and farming. 
+Our team worked on the [Community Mapping](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/) challenge. We worked on the impacts of climate change on heat-related illness, bird conservation, drought and farming. 
 
 <!--
 We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
@@ -29,7 +29,8 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 
 - [Official team web page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/the-climappers/) at SpaceAppsChallenge.org
 - [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing)
-- Oral Presentation slides
+- [Oral Presentation slides](https://docs.google.com/presentation/d/1WeamII1KqAWI8Ihfe29W0ET_eX6rFyID953sO8JrFNA/edit?usp=sharing)
+- 
 
 <!-- 
 - [Oral presentation video](https://youtu.be/knsCNAubOXA) for Boston local judging
