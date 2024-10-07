@@ -45,7 +45,7 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 
 The CliMappers is a team of six high school students. We have diverse interests and passions, but we do share common concerns: climate and climate change. We also share common technology skills such as Python coding, IoT development, data mapping, and cloud storage. Therefore, we tackle climate issues and empower our respective communities through four focused studies:
 
-(1) Heat stroke: Mapping heat risk for outdoor athletes, estimating heat risk, and making heat risk maps audible.
+(1) Heat-related illness: Mapping heat risk for outdoor athletes, estimating heat risk, and making heat risk maps audible.
 
 (2) Bird conservation: Mapping bird observations in a smart mirror, and developing a portable bird activity and environment monitoring system. 
 
