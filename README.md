@@ -13,13 +13,13 @@ We are a team of 6 students who participated in the [2024 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 20 challenges for participants around the world to develop innovative solutions.
 
-We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps.
+We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone API Award** there! We are excited to move onto the global judging!!!
 
 <!--
- and won the **1st place** and **Kintone Award** there! We are excited to receive [a Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
+We are excited to receive [a Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
 -->
 
-Our team worked on the [Community Mapping](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/). 
+Our team worked on the [Community Mapping](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/). We worked on the impacts of climate change on heat-related illness, bird conservation, drought and farming. 
 
 <!--
 We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
@@ -28,7 +28,7 @@ We built "smart" mirrors and picture frames, each of which downloads NASA's soni
 This web site provides hardware and software setup guide, circuit diagrams, and ready-to-run Python programs. You can immediately learn how to reproduce our devices and how to use our constellation sonifier. We hope you find this project interesting and useful and then learn something about sonification. 
 
 - [Official team web page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/the-climappers/) at SpaceAppsChallenge.org
-- 7-page project summary
+- [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing)
 - Oral Presentation slides
 
 <!-- 
@@ -42,12 +42,16 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 
 ### Project Summary:
 
-The CliMappers team consists of six high school students, each with diverse interests, passions, and activities, but sharing a common concern: climate and climate change. With a shared skill set in Python coding, IoT development with Raspberry Pi, data mapping with Folium, and cloud storage, we are tackling climate issues and empowering our respective communities through four focused studies.
+The CliMappers is a team of six high school students. We have diverse interests and passions, but we do share common concerns: climate and climate change. We also share common technology skills such as Python coding, IoT development, data mapping, and cloud storage. Therefore, we tackle climate issues and empower our respective communities through four focused studies:
 
-The team worked on mapping birds and climate, creating a device that automates 24x7 sound-based observation of birds. This project aims to empower communities by providing valuable data and insights into bird activity in relation to climate conditions. Another study investigated the relationship between climate, drought, and terrain, visualizing data on maps to compare historical and recent climate conditions in regions like Washington State and Vancouver. This research helps to understand how similar terrains might exhibit similar drought patterns.
+(1) Heat stroke: Mapping heat risk for outdoor athletes, estimating heat risk, and making heat risk maps audible.
 
-Additionally, the team addressed drought issues in Massachusetts, impacting agriculture and forestry. We have developed a Raspberry Pi device to monitor soil and air dryness and a map application to visualize drought-related information, assisting farms in managing and mitigating drought effects. Lastly, we focused on heatstroke prevention among athletes, using common weather data to develop an algorithm predicting heat stroke risk. This project aims to visualize heat stroke risk on maps, ensuring the safety and well-being of high school athletes.
- 
-Through these collaborative studies, the CliMappers team enhances the understanding of climate change impacts within our communities, promoting informed actions and solutions to mitigate these challenges in our own backyard.
+(2) Bird conservation: Mapping bird observations in a smart mirror, and developing a portable bird activity and environment monitoring system. 
+
+(3) Drought: Clustering drought-susceptible cities based on their climatology and geographical characteristics, analyzing climate changes in those cities, and mapping drought severity and climate classification.
+
+(4) Farming: Mapping regional weather information and building an in-situ soil monitoring device for farms to make informed decisions. 
+
+Through these collaborative studies, the CliMappers enhances the understanding of climate change impacts on our communities, promoting informed actions and solutions to mitigate these challenges in our own backyard.
 
 
