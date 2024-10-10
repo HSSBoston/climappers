@@ -43,15 +43,15 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 
 ### Project Summary:
 
-The CliMappers is a team of six high school students. We have diverse interests and passions, but we do share common concerns: climate and climate change. We also share common technology skills such as Python coding, IoT development, data mapping, and cloud storage. Therefore, we tackle climate issues and empower our respective communities through four focused studies:
+**The CliMappers** is a team of six high school students. We have diverse interests and passions, but we do share common concerns: climate and climate change. We also share common technology skills such as Python coding, IoT development, data mapping, and cloud storage. Therefore, we tackle climate issues and empower our respective communities through four focused studies:
 
-(1) Heat-related illness: Mapping heat risk for outdoor athletes, estimating heat risk, and making heat risk maps audible.
+**(1) Heat-related illness:** Mapping heat risk for outdoor athletes, estimating heat risk, and making heat risk maps audible.
 
-(2) Bird conservation: Mapping bird observations in a smart mirror, and developing a portable bird activity and environment monitoring system. 
+**(2) Bird conservation:** Mapping bird observations in a smart mirror, and developing a portable bird activity and environment monitoring system. 
 
-(3) Drought: Clustering drought-susceptible cities based on their climatology and geographical characteristics, analyzing climate changes in those cities, and mapping drought severity and climate classification.
+**(3) Drought:** Clustering drought-susceptible cities based on their climatology and geographical characteristics, analyzing climate changes in those cities, and mapping drought severity and climate classification.
 
-(4) Farming: Mapping regional weather information and building an in-situ soil monitoring device for farms to make informed decisions. 
+**(4) Farming:** Mapping regional weather information and building an in-situ soil monitoring device for farms to make informed decisions. 
 
 Through these collaborative studies, the CliMappers enhances the understanding of climate change impacts on our communities, promoting informed actions and solutions to mitigate these challenges in our own backyard.
 
