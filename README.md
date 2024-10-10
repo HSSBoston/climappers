@@ -30,7 +30,13 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [Official team web page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/the-climappers/) at SpaceAppsChallenge.org
 - [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing) for global judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/1WeamII1KqAWI8Ihfe29W0ET_eX6rFyID953sO8JrFNA/edit?usp=sharing) at Boston local judging
-- 
+- Code
+  - Mapping Heat Risk for Outdoor Athletes ([code/wbgt/](code/wbgt/))
+  - Estimating Heat Risk ([code/wbgt-classification](code/wbgt-classification))
+  - Making Heat Risk Maps Audible ([code/map-sonification](code/map-sonification))
+  - Bird Conservation ([code/birds](code/birds))
+  - Mapping and Analyzing Climates in WA ([code/wa-drought](wa-drought), [climappers-wa-drought-hythergraph](https://github.com/Pumagon/climappers-wa-drought-hythergraph))
+  - Farming ([code/farming](code/farming))
 
 <!-- 
 - [Oral presentation video](https://youtu.be/knsCNAubOXA) for Boston local judging
