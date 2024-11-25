@@ -34,8 +34,9 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
   - [Mapping Heat Risk for Outdoor Athletes](code/wbgt/)
   - [Estimating Heat Risk](code/wbgt-classification)
   - [Making Heat Risk Maps Audible](code/wbgt-classification)
-  - [Bird Conservation](code/birds))
-  - [Mapping and Analyzing Climates in WA](code/wa-drought), [climappers-wa-drought-hythergraph](https://github.com/Pumagon/climappers-wa-drought-hythergraph)
+  - [Bird Conservation](code/birds)
+  - [Mapping and Analyzing Climates in WA](code/wa-drought),
+  - [climappers-wa-drought-hythergraph](https://github.com/Pumagon/climappers-wa-drought-hythergraph)
   - [Farming](code/farming)
 
 <!-- 
