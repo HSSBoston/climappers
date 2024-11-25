@@ -35,8 +35,8 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
   - [Estimating Heat Risk](code/wbgt-classification)
   - [Making Heat Risk Maps Audible](code/wbgt-classification)
   - [Bird Conservation](code/birds))
-  - [Mapping and Analyzing Climates in WA](wa-drought), [climappers-wa-drought-hythergraph](https://github.com/Pumagon/climappers-wa-drought-hythergraph)
-  - Farming ([code/farming](code/farming))
+  - [Mapping and Analyzing Climates in WA](code/wa-drought), [climappers-wa-drought-hythergraph](https://github.com/Pumagon/climappers-wa-drought-hythergraph)
+  - [Farming](code/farming)
 
 <!-- 
 - [Oral presentation video](https://youtu.be/knsCNAubOXA) for Boston local judging
