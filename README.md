@@ -13,7 +13,7 @@ We are a team of 6 students who participated in the [2024 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 20 challenges for participants around the world to develop innovative solutions.
 
-We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone API Award** there! We are excited to move onto the global judging!!!
+We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone API Award** there! We were nominated to the global judging.
 
 <!--
 We are excited to receive [a Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
@@ -31,9 +31,9 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing) for global judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/1WeamII1KqAWI8Ihfe29W0ET_eX6rFyID953sO8JrFNA/edit?usp=sharing) at Boston local judging
 - Code
-  - Mapping Heat Risk for Outdoor Athletes ([code/wbgt/](code/wbgt/))
-  - Estimating Heat Risk ([code/wbgt-classification](code/wbgt-classification))
-  - Making Heat Risk Maps Audible ([code/map-sonification](code/map-sonification))
+  - [Mapping Heat Risk for Outdoor Athletes](code/wbgt/)
+  - [Estimating Heat Risk](code/wbgt-classification)
+  - [Making Heat Risk Maps Audible](code/wbgt-classification)
   - Bird Conservation ([code/birds](code/birds))
   - Mapping and Analyzing Climates in WA ([code/wa-drought](wa-drought), [climappers-wa-drought-hythergraph](https://github.com/Pumagon/climappers-wa-drought-hythergraph))
   - Farming ([code/farming](code/farming))
