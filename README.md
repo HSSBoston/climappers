@@ -23,9 +23,9 @@ Our team worked on the [Community Mapping](https://www.spaceappschallenge.org/na
 
 <!--
 We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
--->
 
 This web site provides hardware and software setup guide, circuit diagrams, and ready-to-run Python programs. You can immediately learn how to reproduce our devices and how to use our constellation sonifier. We hope you will find this project interesting and useful and then learn, think about or act on climate change. 
+-->
 
 - [Official team web page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/the-climappers/) at SpaceAppsChallenge.org
 - [7-page project summary](https://docs.google.com/presentation/d/1-i9Uh-I4eNe0UzF6vLKNDByFIklReVsbWXHKadZfBYQ/edit?usp=sharing) for global judging
