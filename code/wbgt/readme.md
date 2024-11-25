@@ -4,4 +4,4 @@ Shun, Hanna, and Rei are all serious athletes. In the summer, they all play thei
 
 The goal of our project is to become more aware and precautious of the health risk during physical activities and to prevent heat-related illness. To meet this goal, we mapped the locations of the facilities that we tend to play sports at and overlaid WBGT values in the last 4 days as an animated heatmap. From the highest WBGT level to lowest, the colors are black, red, orange, yellow, and green. By viewing the heat map, coaches and players can determine whether to play outside or the intensity of the practice at that particular time and location. For instance, a region labeled in red recommends a maximum of 1 hour training with 4 by 4 minute breaks within the hour.
 
-<img src="images/heatmap-withtime-markers.jpg" width="500">
+<img src="images/heatmap-withtime-markers.jpg" width="750">
